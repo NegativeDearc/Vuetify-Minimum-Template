@@ -1,5 +1,5 @@
 # Vuetify-Minimum-Template
-Try the awesome Material Style Component framework **Vuetify**(!http://www.github.com/vuetifyjs/vuetify)! Start the bootstrap with `Vuex` and `Vue-router`.
+Try the awesome Material Style Component framework **Vuetify**(http://www.github.com/vuetifyjs/vuetify)! Start the bootstrap with `Vuex` and `Vue-router`.
 
 ### Screenshot
 ![Screenshot](Screenshot.png)
